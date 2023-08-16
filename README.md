@@ -1,1 +1,1 @@
-# gym_customer_churn_analysis
+# Gym Customer Churn Analysis
