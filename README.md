@@ -8,7 +8,8 @@ The data is collected from Kaggle.com and can be access [here](https://www.kaggl
 ### Key Concepts 
 **Churn rate**: The attrition rate, also known as customer churn rate, represents the rate at which customers discontinue their engagement with a particular entity. It can be calculated using the formula: Churn rate = customers lost / total number of customers. 
 
-### ETL 
-
 ### Visualization 
 #### PowerBI Dashboard 
+
+
+#### Key Findings
