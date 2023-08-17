@@ -13,7 +13,11 @@ The data is collected from Kaggle.com and can be access [here](https://www.kaggl
 #### Dashboard Design 
 
 #### PowerBI Dashboard 
-
+Here is the finished dashboard:
+![pic](dashboard_pic.jpg)
+<br>
+Here is a demo of the finished dashboard:  
+![demo](Churn_Dashboard_demo.gif)
 #### Key Findings
 
 #### Actionable Items 
