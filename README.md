@@ -1,4 +1,4 @@
-# Gym Customer Churn Analysis 🏋️🏃🏽‍♀️
+# Gym Customer Churn Analysis 🏃🏽‍♀️
 
 ### Overview 
 The project is to analyze a dataset with 4000 lines of customer churn data from a fictional gym called Model Fitness. Using PowerBI, an interactive dashboard is developed to pinpoint trends, patterns, and factors influencing customer attrition. The end goal is to extract insights to for the gym management to make informed deicions and implement strategies to mitigate churn and enhance customer rentention. 
