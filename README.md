@@ -40,6 +40,7 @@ Here is a demo of the finished dashboard:
 - Gender doesn't notably influence churn decisions. 
 
 #### Actionable Items 
-- Enhance Engagement: Develop strategies to increase class attendance among all customers, with personalized offerings and incentives for regular attendees.
-- Customer Value Enhancement: Focus on extending customer lifetime value by providing tailored services, exclusive benefits, and loyalty programs for long-term members.
-- Strengthen Referral Programs: Implement initiatives to encourage more churned customers to refer the gym to their friends, leveraging word-of-mouth marketing to boost retention.
+- **Enhance Engagement**: Develop strategies to increase class attendance among all customers, with personalized offerings and incentives for regular attendees.
+- **Targeted Marketing for Age Groups**: Tailor marketing efforts to target and attract customers within the age range of 18-25, as they have the highest churn rate. Consider creating specialized programs or offers that cater to their needs and preferences.
+- **Customer Value Enhancement**: Focus on extending customer lifetime value by providing tailored services, exclusive benefits, and loyalty programs for long-term members.
+- **Strengthen Referral Programs**: Implement initiatives to encourage more churned customers to refer the gym to their friends, leveraging word-of-mouth marketing to boost retention.
