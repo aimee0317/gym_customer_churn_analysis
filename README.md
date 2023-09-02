@@ -15,10 +15,13 @@ My design strategy revolved around user-friendliness and actionable insights. I 
 #### Data Cleaning and Manipulation 
 Data was cleaned and manipulated using PowerQuery in Microsoft Excel and Data Analysis Expressions (DAX) in PowerBI. 
 #### Key Visualizations
-- Number Cards: The top number cards provide an overview of key data, including total customer count, overall churn rate (along with a gauge chart), average lifetime, and average class frequency.
+- Number Cards: The number cards on the top of the dashboard provide an overview of key metrics, including total customer count, overall churn rate (along with a gauge chart), average lifetime, mean additional charges, and average class frequency.
+- Bar chart: The bar chart compares the churn rate of different age range groups and ranks the groups from the highest churn rate to the lowest.
+- Scatter plot: The scatter plot shows the mean average class frequency of members of different ages, with the size of the bubble indicating the count of members of each age. 
+- Treemap: The treemap shows the contribution of members from each age range to the total lifetime value. 
 - Donut Charts: Donut charts illustrate the proportion of specific categories, like gender composition, within the dataset.
 - Clustered Bar Charts: Bar charts compare category distributions between churn statuses, showing metrics like how many churned customers promoted the gym to friends versus those who did not.
-- Interactivity: Users can engage with the dashboard by applying filters to observe how numbers and graphs adjust for both churned and non-churned segments.
+- Interactivity: Users can engage with the dashboard by applying filters to observe how numbers and graphs adjust for both churned and non-churned segments. Users can also zoom in and out on the scatter plot to view class frequency and member count information for different age ranges by selecting the age range using the slider at the bottom of the graph. 
 
 #### PowerBI Dashboard 
 Here is the finished dashboard:
