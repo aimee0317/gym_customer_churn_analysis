@@ -21,7 +21,7 @@ My design strategy revolved around user-friendliness and actionable insights. I 
 
 #### PowerBI Dashboard 
 Here is the finished dashboard:
-![pic](dashboard_pic.jpg)
+![pic](gym_churn_dashboard.jpg)
 <br>
 Here is a demo of the finished dashboard:  
 ![demo](gym_churn_dashboard.gif)
