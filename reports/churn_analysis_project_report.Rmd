@@ -1,0 +1,17 @@
+---
+title: "Churn Analysis Project Report"
+author: "Amelia Tang"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Business Problem
+
+The management of Model Fitness gym would like to understand the churn behavior of the gym's members. Churn rate, which represents the percentage of members who cease their gym membership over a specific period, is a critical metric to monitor. A high churn rate can result in financial losses, decreased membership numbers, and a negative impact on the gym's reputation. 
+
+## Objective
+
+Predict which member is going to churn. 
