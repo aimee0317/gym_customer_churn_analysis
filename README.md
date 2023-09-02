@@ -12,8 +12,9 @@ The data is collected from Kaggle.com and can be access [here](https://www.kaggl
 ### Visualization 
 #### Dashboard Design 
 My design strategy revolved around user-friendliness and actionable insights. I decided to maintain a consistent off-white background color scheme and red/orange colors for graphs to ensure a professional and engaging look.
-
-**Key Visualizations** 
+#### Data Cleaning and Manipulation 
+Data was cleaned and manipulated using PowerQuery in Microsoft Excel and Data Analysis Expressions (DAX) in PowerBI. 
+#### Key Visualizations
 - Number Cards: The top number cards provide an overview of key data, including total customer count, overall churn rate (along with a gauge chart), average lifetime, and average class frequency.
 - Donut Charts: Donut charts illustrate the proportion of specific categories, like gender composition, within the dataset.
 - Clustered Bar Charts: Bar charts compare category distributions between churn statuses, showing metrics like how many churned customers promoted the gym to friends versus those who did not.
