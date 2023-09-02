@@ -26,8 +26,11 @@ Here is the finished dashboard:
 Here is a demo of the finished dashboard:  
 ![demo](gym_churn_dashboard.gif)
 #### Key Findings
-- Churned customers attended gym classes less frequently. 
-- Churned customers show reduced lifetime value compared to non-churned.
+- Customers who do not churn take classes more frequently on an average basis.
+- Customers who do not churn pay more additional charges.
+- Most customers of the gym are between 25 and 35 years old.
+- Customers within the age range of 18-25 have the highest churn rate of 62% among all the age groups.
+- Customers within the age range of 26-30 contributed the most lifetime value.
 - Proportionally, less churned customers promote/recommend the gym to their friends than those who did not churn.
 - Whether the customer provides phone number doesn't significantly impact churn decisions.
 - Gender doesn't notably influence churn decisions. 
