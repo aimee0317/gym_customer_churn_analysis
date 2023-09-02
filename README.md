@@ -24,7 +24,7 @@ Here is the finished dashboard:
 ![pic](dashboard_pic.jpg)
 <br>
 Here is a demo of the finished dashboard:  
-![demo](Churn_Dashboard_demo.gif)
+![demo](gym_churn_dashboard.gif)
 #### Key Findings
 - Churned customers attended gym classes less frequently. 
 - Churned customers show reduced lifetime value compared to non-churned.
