@@ -1,0 +1,1 @@
+COPY churndata.public.customer_data FROM 's3://churnanalysis' IAM_ROLE 'MY-AWS-IAM-ROLE' FORMAT AS CSV DELIMITER ',' QUOTE '"' IGNOREHEADER 1 REGION AS 'us-west-2'
